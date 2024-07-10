@@ -1,7 +1,7 @@
 
 ### olá, eu me chamo Gabiel Virginio, conhecido como gv
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-virginio-8819a5318/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-virginio-8819a5318)
 
 ![gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gv64&show_icons=true&theme=dark)
 
